@@ -1,1 +1,1 @@
-# Our project is cool
+# Practice Project
